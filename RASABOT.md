@@ -5,5 +5,5 @@ The main reason that why we should use rasa is that here the training data set i
 #### RASA NLU
 rasa nlu is the NLP tool which is used for the intent classification and entity extraction <br/>
 for example in the sentence "  I need a taxi for five people  "  so intent - " booking taxi ", and entities are TAXI,count 5 so hope this makes more clear
-
-                            
+#### RASA CORE 
+and basically rasa core is the one which replies to the user on the basis of the entity and the intent extracted and classified through RASA NLU
